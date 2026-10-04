@@ -1,0 +1,15 @@
+*venv
+data/raw/
+
+# Датасеты
+data/
+*.csv
+
+# Обученные модели
+models/
+*.pkl
+
+# Виртуальное окружение и кэш
+venv/
+__pycache__/
+.ipynb_checkpoints/
